@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "User experience design for Defra Livestock information programme"
+date:   2017-11-07 11:26:39 +0000
+categories: portfolio
+---
+<h2>Context</h2>
+<p>EU legislation meant that all animal movements needed to be tracked and traceable. Defra’s existing IT was not able to cope with requirements, and there was a very low uptake in using the services. I was the UX and service design specialist in a multidisciplinary team.</p>
+
+![image tooltip here](/images/defra1.png)
+
+<h3>Key responsibilities</h3>
+<ul>
+    <li>Lead workshops with stakeholders from the business as well as users (farmers/market sales/abattoirs) to understand the problem space.</li>
+    <li><a href="https://docs.google.com/presentation/d/1ICWVX5gZmHxe8uYD5sBrsJRXFOlx4iMN-bdPHp969YA/edit?usp=sharing">User Experience Mapping</a></li>
+    <li><a href="https://docs.google.com/presentation/d/1gdVoWs6CT3ZkPzaXB2OVZPL8tTcnFb1uBVTkTWhUdWc/edit?usp=sharing">Service Design workshop</a></li>
+    <li>Produce detailed service blueprints and maps to illustrate the current service, and illustrate pain points, areas of failure demand, and opportunities for improvement.
+        <ul>
+            <li><a href="https://github.com/liammcmurray/portfolio/blob/master/cattle-experience.pdf">User Experience Map</a></li>
+            <li><a href="https://github.com/liammcmurray/portfolio/blob/master/cattle-blueprint.pdf">Service Blueprint</a></li>
+        </ul>
+    </li>
+    <li>Work alongside user researchers to ideate solutions based on feedback from user workshops.</li>
+</ul>
+
+![image tooltip here](/images/defra.png)

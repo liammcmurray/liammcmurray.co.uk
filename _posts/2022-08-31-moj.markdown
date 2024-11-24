@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Designing a new case allocation tool for probation officers"
+date:   2022-08-31 12:01:47 +0000
+categories: portfolio
+---
+<h2>Context</h2>
+<p>As part of the National Probation Reform design team in HMPPS, I’ve worked across digital delivery teams and with internal stakeholders at a programme level to design joined-up user-focused microservices to replace aging legacy technical monoliths. 
+
+Using my experience of building teams and culture, I’ve set up communities of interest around Policy, Internal Systems, and Mentoring. I’ve recently been successful in mentoring an associate designer into a middleweight role, and leading a small group (3) of early career designers within the Probation workstream.
+</p>
+
+![image tooltip here](/images/moj1.png)
+
+![image tooltip here](/images/moj2.png)
+
+
+<h3>Key achievements</h3>
+- Greatly simplified the information presented to a Probation Officer to reduce their congitive burden
+- Lead the UCD team through the Alpha stage of a Service Assessment (we met all criteria)
+- Wrote and published a <a href="https://manage-a-workforce-design-history.apps.live.cloud-platform.service.justice.gov.uk/">Design History</a> - first one in MoJ!
+- Used **ChatGPT** to generate a list of realistic cases for allocation
+
+![image tooltip here](/images/moj3.png)

@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<i class="em em-wave"></i>
+<h2>Thanks for stopping by</h2>
+<p>This is my little place on the web, and also where I'll (very) ocassionally <a href="https://medium.com/@liammcmurray">blog</a> about design, agile, and digital transformation.</p>
+<p>I have been a web designer, content designer, user researcher, interaction designer, servicer designer. Whatever the role, I always take a user centred approach to my work.</p>
+<p>Below you'll find links to the socials and networking (I'm not on many and not that active any more - but this work to contact me). Take a moment to look through my portfolio section here before you leave - it's where I list the work I'm most proud of.</p>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<ul>
+	<li><a href="https://www.linkedin.com/in/liammcmurray/">LinkedIn</a></li>
+	<li><a href="https://bsky.app/profile/liammcmurray.bsky.social">Bluesky</a></li>
+</ul>

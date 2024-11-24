@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Heuristic analysis and redesign of appealing household planning applications"
+date:   2020-02-14 16:28:02 +0000
+categories: portfolio
+---
+<h2>Context</h2>
+<p>As a consultant I was brought into lead the digital transformation of this organisation to be user-centred in their approach, taking over the design direction of a failed online appeals application service. Building a small user-centred team I turned it into the first service ever to pass a government service standard assessment for the Planning Inspectorate.</p>
+
+![image tooltip here](/images/pins1.png)
+
+
+<h3>Key achievements</h3>
+- Turned around a failing organisational relationship with parent department and central government, putting gatekeepers and checkpoints in place to ensure standards and practice did not slip.
+- Successfully challenged existing relationships with external suppliers that were not meeting the requirements of a service assessment.
+- <a hreaf="https://docs.google.com/presentation/d/1bTZIEjQNzVe8TbY3xzlx0GxxqUIHoh9qQKCzkspHcC8/edit?usp=sharing">Produced 10 point heuristic analysis of existing software to enable better prioritisation of new work</a>
+- Instigated a design community of practice, to ensure knowledge transfer across wider organisation at it transitioned to government DDaT roles.
+- Brought user-centred design to the forefront of the decision-making process
+
+![image tooltip here](/images/pins2.png)

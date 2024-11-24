@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Graphic design for Defra Communities of Practice"
+date:   2018-03-06 16:28:02 +0000
+categories: portfolio
+---
+<h2>Context</h2>
+<p>I was approached by a senior colleague to create a series of posters to increase awareness of the communities of practice within Defra for digital specialists.</p>
+
+![image tooltip here](/images/defra2.png)
+
+![image tooltip here](/images/defra3.png)
+
+<h3>Key responsibilities</h3>
+<ul>
+    <li>Working closely with a content designer to source quotes from the community describing the value of attending a community of practice.</li>
+    <li>Creating a visual identity for the posters across a consistent theme.</li>
+    <li><a href="https://github.com/liammcmurray/portfolio/tree/master/community-of-practice">Designing the posters</a> and getting them printed and sent out to each area ‘hub’.</li>
+</ul>
