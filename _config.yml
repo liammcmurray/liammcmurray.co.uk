@@ -21,7 +21,7 @@
 title: Liam McMurray - Portfolio
 email: liammcmurray@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Case studies and contact detials for Liam McMurray, a Digital Transformation specialist with Government Service Assessment experience. Service, Interaction, & UX Design Lead for digital public services. Residing in not always sunny Bath, UK.
+  Case studies and contact details for Liam McMurray, a Digital Transformation specialist with Government Service Assessment experience. Service, Interaction, & UX Design Lead for digital public services. Residing in not always sunny Bath, UK.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  liammcmurray
